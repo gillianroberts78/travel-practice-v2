@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travel-practice-v2/static/css/main.95670fb8.css",
+    "main.js": "/travel-practice-v2/static/js/main.e2bc83f3.js",
+    "static/media/world.gif": "/travel-practice-v2/static/media/world.b5242c2a5fe9ae1e024f.gif",
+    "index.html": "/travel-practice-v2/index.html",
+    "main.95670fb8.css.map": "/travel-practice-v2/static/css/main.95670fb8.css.map",
+    "main.e2bc83f3.js.map": "/travel-practice-v2/static/js/main.e2bc83f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95670fb8.css",
+    "static/js/main.e2bc83f3.js"
+  ]
+}
